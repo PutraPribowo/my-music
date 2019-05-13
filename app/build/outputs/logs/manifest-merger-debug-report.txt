@@ -1,0 +1,444 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+MERGED from [com.android.support:multidex:1.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6980b42d143ef4016fe481238001bf2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.naman14:app-theme-engine:0.5.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/43677fc0941589ac755953cd92ed5e40/AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/1d9f8afba4e72aebbec5990dee668d4d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/274df53e0ba83c058271ac19b7f02089/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:design:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/108faacf502b526541d50e93f9bf3d0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.6.0.aar/3faab75fec026b49758664c8a27781db/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6e4fcdf44c970a6e4f3130e97f33fd52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2f87fd55deed4408706875c93aff6557/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/88b350101f112f6b71f965fc2d434b14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c8af3c883c939b1864823852e240e03d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/bdb59eb2ae1144b91bd4c336a95f92b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/percent-27.0.2.aar/095cd1fea219c283d0c5aab6e0e2c006/AndroidManifest.xml:17:1-22:12
+MERGED from [net.steamcrafted:materialiconlib:1.1.4] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/AndroidManifest.xml:2:1-14:12
+MERGED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:2:1-15:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/cb4085e8fdbb11815f06530c297fe81e/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/79e373f6bc08586c58d1c287987e5d41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9060bd56208785e8957ac44233b3d436/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2130cc4e6121f82a4f6393ce5147c5df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/aed8825328a10d302d0fa9b3606d2eb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0a6202b24c950662872185095fba8093/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c53ace6932a44d222048d5b7b045769b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cc8115eb2b80509d603aae59ab068f48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7e4ec2e808863a10a5726c13104acbce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4a968830538519db5ff7e8b417a9d749/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.6.0.aar/0d87c673c87d919071a6f6183f2f87b3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:18:1-29:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/27eb8758eaed61eff870750e1c4b871c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/1597a77d4b0bcf8e1da2e78a94ae56f2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.6.0.aar/311ef1e4e898ec648271c1e923b7d2a8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3fe573c5b097e3162d3c83ecf96b3623/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/dea6dfb2f0449d281323adc6d253bee4/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:1-157:12
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+MERGED from [com.android.support:multidex:1.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6980b42d143ef4016fe481238001bf2f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6980b42d143ef4016fe481238001bf2f/AndroidManifest.xml:20:5-43
+MERGED from [com.github.naman14:app-theme-engine:0.5.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/43677fc0941589ac755953cd92ed5e40/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.naman14:app-theme-engine:0.5.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/43677fc0941589ac755953cd92ed5e40/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/1d9f8afba4e72aebbec5990dee668d4d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/1d9f8afba4e72aebbec5990dee668d4d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/274df53e0ba83c058271ac19b7f02089/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/274df53e0ba83c058271ac19b7f02089/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:design:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/108faacf502b526541d50e93f9bf3d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/108faacf502b526541d50e93f9bf3d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.6.0.aar/3faab75fec026b49758664c8a27781db/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.6.0.aar/3faab75fec026b49758664c8a27781db/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6e4fcdf44c970a6e4f3130e97f33fd52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6e4fcdf44c970a6e4f3130e97f33fd52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2f87fd55deed4408706875c93aff6557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2f87fd55deed4408706875c93aff6557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/88b350101f112f6b71f965fc2d434b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/88b350101f112f6b71f965fc2d434b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c8af3c883c939b1864823852e240e03d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c8af3c883c939b1864823852e240e03d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/bdb59eb2ae1144b91bd4c336a95f92b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/bdb59eb2ae1144b91bd4c336a95f92b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/percent-27.0.2.aar/095cd1fea219c283d0c5aab6e0e2c006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/percent-27.0.2.aar/095cd1fea219c283d0c5aab6e0e2c006/AndroidManifest.xml:20:5-44
+MERGED from [net.steamcrafted:materialiconlib:1.1.4] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/AndroidManifest.xml:7:5-9:41
+MERGED from [net.steamcrafted:materialiconlib:1.1.4] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/AndroidManifest.xml:7:5-9:41
+MERGED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:7:5-9:41
+MERGED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/cb4085e8fdbb11815f06530c297fe81e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/cb4085e8fdbb11815f06530c297fe81e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/79e373f6bc08586c58d1c287987e5d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/79e373f6bc08586c58d1c287987e5d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9060bd56208785e8957ac44233b3d436/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9060bd56208785e8957ac44233b3d436/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2130cc4e6121f82a4f6393ce5147c5df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2130cc4e6121f82a4f6393ce5147c5df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/aed8825328a10d302d0fa9b3606d2eb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/aed8825328a10d302d0fa9b3606d2eb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0a6202b24c950662872185095fba8093/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0a6202b24c950662872185095fba8093/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c53ace6932a44d222048d5b7b045769b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c53ace6932a44d222048d5b7b045769b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cc8115eb2b80509d603aae59ab068f48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cc8115eb2b80509d603aae59ab068f48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7e4ec2e808863a10a5726c13104acbce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7e4ec2e808863a10a5726c13104acbce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4a968830538519db5ff7e8b417a9d749/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4a968830538519db5ff7e8b417a9d749/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.6.0.aar/0d87c673c87d919071a6f6183f2f87b3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.6.0.aar/0d87c673c87d919071a6f6183f2f87b3/AndroidManifest.xml:4:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:23:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/27eb8758eaed61eff870750e1c4b871c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/27eb8758eaed61eff870750e1c4b871c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/1597a77d4b0bcf8e1da2e78a94ae56f2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/1597a77d4b0bcf8e1da2e78a94ae56f2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.6.0.aar/311ef1e4e898ec648271c1e923b7d2a8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.6.0.aar/311ef1e4e898ec648271c1e923b7d2a8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3fe573c5b097e3162d3c83ecf96b3623/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3fe573c5b097e3162d3c83ecf96b3623/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/dea6dfb2f0449d281323adc6d253bee4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/dea6dfb2f0449d281323adc6d253bee4/AndroidManifest.xml:4:5-43
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+	tools:overrideLibrary
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:15-67
+	android:targetSdkVersion
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:6:5-70
+		INJECTED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#com.android.vending.BILLING
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:14:22-64
+application
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:17:5-155:19
+MERGED from [com.github.naman14:app-theme-engine:0.5.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/43677fc0941589ac755953cd92ed5e40/AndroidManifest.xml:12:5-20
+MERGED from [com.github.naman14:app-theme-engine:0.5.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/43677fc0941589ac755953cd92ed5e40/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/1d9f8afba4e72aebbec5990dee668d4d/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/1d9f8afba4e72aebbec5990dee668d4d/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.6.0.aar/3faab75fec026b49758664c8a27781db/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.6.0.aar/3faab75fec026b49758664c8a27781db/AndroidManifest.xml:18:5-19
+MERGED from [net.steamcrafted:materialiconlib:1.1.4] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/AndroidManifest.xml:11:5-12:19
+MERGED from [net.steamcrafted:materialiconlib:1.1.4] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/AndroidManifest.xml:11:5-12:19
+MERGED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:11:5-13:38
+MERGED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:11:5-13:38
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/cb4085e8fdbb11815f06530c297fe81e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/cb4085e8fdbb11815f06530c297fe81e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.6.0.aar/0d87c673c87d919071a6f6183f2f87b3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.6.0.aar/0d87c673c87d919071a6f6183f2f87b3/AndroidManifest.xml:5:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:27:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/1597a77d4b0bcf8e1da2e78a94ae56f2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/1597a77d4b0bcf8e1da2e78a94ae56f2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.6.0.aar/311ef1e4e898ec648271c1e923b7d2a8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.6.0.aar/311ef1e4e898ec648271c1e923b7d2a8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3fe573c5b097e3162d3c83ecf96b3623/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3fe573c5b097e3162d3c83ecf96b3623/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/dea6dfb2f0449d281323adc6d253bee4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/dea6dfb2f0449d281323adc6d253bee4/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:21:9-33
+		REJECTED from [de.Maxr1998:track-selector-lib:1.2] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:20:9-38
+	android:allowBackup
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:19:9-36
+		REJECTED from [net.steamcrafted:materialiconlib:1.1.4] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/AndroidManifest.xml:11:18-44
+	android:theme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:22:9-39
+	tools:replace
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:18:9-34
+activity#com.naman14.timber.activities.MainActivity
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:25:9-69:20
+	android:screenOrientation
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:26:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.CATEGORY_APP_MUSIC+android.intent.category.LAUNCHER
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:29:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.CATEGORY_APP_MUSIC
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:32:17-87
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:32:27-84
+category#android.intent.category.LAUNCHER
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:33:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:35:13-44:29
+action#android.intent.action.VIEW
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:37:27-73
+data
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:39:17-47
+	android:scheme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:39:23-44
+	android:mimeType
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:40:23-49
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:45:13-56:29
+	android:priority
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:57:28-49
+category#android.intent.category.BROWSABLE
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:49:27-75
+activity#com.naman14.timber.activities.SettingsActivity
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:71:9-73:58
+	android:theme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:73:13-55
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:72:13-56
+activity#com.naman14.timber.activities.PlaylistDetailActivity
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:75:9-77:64
+	android:theme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:77:13-61
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:76:13-62
+activity#com.naman14.timber.activities.SearchActivity
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:79:9-81:58
+	android:theme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:81:13-55
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:80:13-54
+activity#com.naman14.timber.activities.NowPlayingActivity
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:83:9-85:64
+	android:theme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:85:13-61
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:84:13-58
+activity#com.naman14.timber.cast.ExpandedControlsActivity
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:87:9-93:20
+	android:screenOrientation
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:89:13-45
+	android:theme
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:90:13-67
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:88:13-58
+receiver#com.naman14.timber.helpers.MediaButtonIntentReceiver
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:95:9-100:20
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:95:19-68
+intent-filter#android.intent.action.MEDIA_BUTTON+android.media.AUDIO_BECOMING_NOISY
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:96:13-99:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:97:25-74
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:98:17-77
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:98:25-74
+service#com.naman14.timber.MusicService
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:102:9-105:39
+	android:process
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:105:13-36
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:104:13-45
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:103:13-41
+service#com.naman14.timber.WearBrowserService
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:107:9-113:19
+	android:exported
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:108:13-47
+intent-filter#android.media.browse.MediaBrowserService
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:110:13-112:29
+action#android.media.browse.MediaBrowserService
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:111:17-83
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:111:25-80
+meta-data#io.fabric.ApiKey
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:116:9-118:54
+	android:value
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:118:13-51
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:117:13-44
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:120:9-123:75
+	android:value
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:123:13-72
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:121:13-110
+receiver#com.naman14.timber.widgets.desktop.StandardWidget
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:125:9-133:20
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:125:66-105
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:125:19-65
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+com.naman14.timber.metachanged+com.naman14.timber.playstatechanged
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:126:13-130:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:127:17-84
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:127:25-81
+action#com.naman14.timber.metachanged
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:128:17-73
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:128:25-70
+action#com.naman14.timber.playstatechanged
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:129:17-78
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:129:25-75
+meta-data#android.appwidget.provider
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:131:13-132:59
+	android:resource
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:132:17-56
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:131:24-65
+receiver#com.naman14.timber.widgets.desktop.WhiteWidget
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:135:9-143:20
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:135:63-99
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:135:19-62
+receiver#com.naman14.timber.widgets.desktop.SmallWidget
+ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:145:9-153:20
+	android:label
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:145:63-99
+	android:name
+		ADDED from /home/wingshacker/Desktop/Timber-master/app/src/main/AndroidManifest.xml:145:19-62
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/AndroidManifest.xml:20:20-65

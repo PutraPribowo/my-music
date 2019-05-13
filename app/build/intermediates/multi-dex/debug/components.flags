@@ -1,0 +1,93 @@
+-injars /home/wingshacker/Android/Sdk/build-tools/26.0.2/renderscript/lib/renderscript-v8.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6980b42d143ef4016fe481238001bf2f/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/43677fc0941589ac755953cd92ed5e40/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/1d9f8afba4e72aebbec5990dee668d4d/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/274df53e0ba83c058271ac19b7f02089/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/108faacf502b526541d50e93f9bf3d0a/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.6.0.aar/996d1892e022fa9fa97ae7ab8e1318dd/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.6.0.aar/3faab75fec026b49758664c8a27781db/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6e4fcdf44c970a6e4f3130e97f33fd52/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2f87fd55deed4408706875c93aff6557/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/88b350101f112f6b71f965fc2d434b14/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c8af3c883c939b1864823852e240e03d/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/bdb59eb2ae1144b91bd4c336a95f92b6/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/percent-27.0.2.aar/095cd1fea219c283d0c5aab6e0e2c006/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/materialiconlib-1.1.4.aar/9e53d15bf63289a3b357552b1d273755/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.3.0/4f12ec1e1455909e1f0b8530c719c90b2d01745/okhttp-urlconnection-2.3.0.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/track-selector-lib-1.2.aar/affd40eeba007efe807282ac6a935885/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.5.aar/f26ba0ba65b20a22fa73c8bf29f63291/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.anjlab.android.iab.v3/library/1.0.44/add169444f38ac23ffae27326c75e33fedef73ba/library-1.0.44.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.1/a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c/nanohttpd-2.3.1.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/eec7b5098c4692e862b3ab5d4556fd23/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/cb4085e8fdbb11815f06530c297fe81e/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/4eebec8f114fa40e32d9825ba0662817/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/79e373f6bc08586c58d1c287987e5d41/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9060bd56208785e8957ac44233b3d436/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2130cc4e6121f82a4f6393ce5147c5df/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/aed8825328a10d302d0fa9b3606d2eb5/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0a6202b24c950662872185095fba8093/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c53ace6932a44d222048d5b7b045769b/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cc8115eb2b80509d603aae59ab068f48/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/7e4ec2e808863a10a5726c13104acbce/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4a968830538519db5ff7e8b417a9d749/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.6.0.aar/0d87c673c87d919071a6f6183f2f87b3/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/beta-1.2.2.aar/e008f6b901b71117c05dc821edfbd82b/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.14.aar/b4b2840609ba94bb4772066c1173c3f7/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/answers-1.3.10.aar/186c277772793fd9a2a116fe6c411aed/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/fabric-1.3.14.aar/1cac31f9401549b473840d15c2e69bb0/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/27eb8758eaed61eff870750e1c4b871c/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/1597a77d4b0bcf8e1da2e78a94ae56f2/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.6.0.aar/311ef1e4e898ec648271c1e923b7d2a8/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3fe573c5b097e3162d3c83ecf96b3623/jars/classes.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar(**.class)
+-injars /home/wingshacker/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/dea6dfb2f0449d281323adc6d253bee4/jars/classes.jar(**.class)
+-injars /home/wingshacker/Desktop/Timber-master/app/build/intermediates/classes/debug(**.class)
+-outjars /home/wingshacker/Desktop/Timber-master/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/wingshacker/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /home/wingshacker/Desktop/Timber-master/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /home/wingshacker/Desktop/Timber-master/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:19
+-keep class com.naman14.timber.TimberApp {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

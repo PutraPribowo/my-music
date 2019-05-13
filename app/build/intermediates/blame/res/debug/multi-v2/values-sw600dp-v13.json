@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/wingshacker/Desktop/Timber-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/wingshacker/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6e4fcdf44c970a6e4f3130e97f33fd52/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1212,1281",
+                        "endColumns": "68,68",
+                        "endOffsets": "1276,1345"
+                    }
+                },
+                {
+                    "source": "/home/wingshacker/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/18f20edd0a0f82ae4a97784aef2f49d7/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "/home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/108faacf502b526541d50e93f9bf3d0a/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "653,713,783,854,926,984,1042,1148,1350,1413",
+                        "endLines": "11,12,13,14,15,16,17,18,21,25",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "708,778,849,921,979,1037,1143,1207,1408,1590"
+                    }
+                },
+                {
+                    "source": "/home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2f87fd55deed4408706875c93aff6557/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "97,166,235,305,379,455,514,585",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "161,230,300,374,450,509,580,648"
+                    }
+                }
+            ]
+        }
+    ]
+}

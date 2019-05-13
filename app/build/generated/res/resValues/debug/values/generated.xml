@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <string name="cast_app_id" translatable="false">62ac1851456e4558bef1c41747b1aec2</string>
+    <string name="fabric_api_key" translatable="false">62ac1851456e4558bef1c41747b1aec2</string>
+    <string name="play_billing_license_key" translatable="false">62ac1851456e4558bef1c41747b1aec2</string>
+
+</resources>

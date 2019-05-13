@@ -1,0 +1,3 @@
+# Referenced at /home/wingshacker/Desktop/Timber-master/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:19
+-keep class com.naman14.timber.TimberApp { <init>(...); }
+

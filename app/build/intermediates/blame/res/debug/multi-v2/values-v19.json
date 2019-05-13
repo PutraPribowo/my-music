@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/wingshacker/Desktop/Timber-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/wingshacker/Desktop/Timber-master/app/src/main/res/values-v19/styles.xml",
+                    "from": {
+                        "startLines": "28,14,3,34,20,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "667,362,56,900,593,289",
+                        "endLines": "32,18,7,37,23,12",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "894,587,283,967,658,356"
+                    },
+                    "to": {
+                        "startLines": "2,7,12,17,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,287,517,749,821,891",
+                        "endLines": "6,11,16,20,24,28",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "282,512,744,816,886,958"
+                    }
+                }
+            ]
+        }
+    ]
+}
